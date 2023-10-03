@@ -19,3 +19,4 @@ https://mv-dream.github.io/
 
 ## Output
 
+![ca1f8373-a802-4792-8a6d-5134edd76804](https://github.com/camenduru/MVDream-colab/assets/54370274/13e75575-5a63-4910-ae74-ac80302ed354)
