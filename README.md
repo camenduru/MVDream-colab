@@ -10,7 +10,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/MVDream-colab/blob/main/MVDream_3D_colab.ipynb) | MVDream_3D_colab
 
 ## Main Repo
-https://github.com/bytedance/MVDream
+https://github.com/bytedance/MVDream <br />
+https://github.com/bytedance/MVDream-threestudio <br />
 
 ## Paper
 https://arxiv.org/abs/2308.16512
